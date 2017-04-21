@@ -1,3 +1,3 @@
 Hello World
 
-![Cheer Picture](images/cheer.jpf)
+![Cheer Picture](images/cheer.png)
