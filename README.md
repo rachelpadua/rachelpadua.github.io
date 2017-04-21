@@ -1,3 +1,3 @@
-[link to my hello world repo](https://github.com/rachelpadua/hello-world.git)
+:computer: [link to my hello world repo](https://github.com/rachelpadua/hello-world.git) :computer:
 
-![Git-It Screen Shot](images/ScreenShot.png)
+:smiley: ![Git-It Screen Shot](images/ScreenShot.png) :smiley:
