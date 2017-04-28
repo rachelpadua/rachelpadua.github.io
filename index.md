@@ -1,3 +1,3 @@
-Hello World :blush:
+:computer: [link to my hello world repo](https://github.com/rachelpadua/hello-world.git) :computer:
 
-![Cheer Picture](images/cheer.png)
+:smiley: ![Git-It Screen Shot](images/ScreenShot.png) :smiley:
